@@ -1,0 +1,27 @@
+{
+    "channels":[
+        {
+        "logo":"http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",
+        "name":"CCTV4",
+        "url":[
+            "http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8",
+        "http://121.18.168.210/livetestcdn.cctv.cn/hls/4KHD/playlist.m3u8",
+        "http://live.aishang.ctlcdn.com/00000110240316_1/encoder/0/playlist.m3u8?CONTENTID=00000110240316_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR"
+        ]
+    },
+    {
+        "logo":"http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",
+        "name":"CCTV13",
+        "url":[
+            "http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8"
+        ]
+    },
+    {
+        "logo":"http://www.tvyan.com/uploads/dianshi/gdzjpd.jpg",
+        "name":"珠江频道",
+        "url":[
+            "http://astream.apk1088.com:18888/channel.php?id=gdzhujiang_1500&/PLTV/hls.smil.m3u8"
+        ]
+    }
+    ]
+}
