@@ -143,45 +143,6 @@ class _VideoPageState extends State<VideoPage> {
             child: Stack(
               children: <Widget>[
                 FijkView(player: player),
-                Positioned(
-                    top: 0,
-                    left: 0,
-                    child: Row(
-                      children: [
-                        Row(
-                          children: [
-                            GestureDetector(
-                                child: Container(
-                                  width: 60,
-                                  height: 60,
-                                  decoration: ShapeDecoration(
-                                    shape: CircleBorder(),
-                                    color: Colors.white,
-                                  ),
-                                  // child: Image.asset("assets/logo.png"),
-                                ),
-                                onTap: () {
-                                  FocusScope.of(context).focusInDirection(
-                                      TraversalDirection.left);
-                                }),
-                            GestureDetector(
-                                child: Container(
-                                  width: 60,
-                                  height: 60,
-                                  decoration: ShapeDecoration(
-                                    shape: CircleBorder(),
-                                    color: Colors.white,
-                                  ),
-                                  // child: Image.asset("assets/logo.png"),
-                                ),
-                                onTap: () {
-                                  FocusScope.of(context).focusInDirection(
-                                      TraversalDirection.right);
-                                }),
-                          ],
-                        ),
-                      ],
-                    )),
                 // Positioned(
                 //   left: 0,
                 //   bottom: 0,

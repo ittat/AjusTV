@@ -34,7 +34,8 @@ class TVWidgetState extends State<TVWidget> {
   FocusNode _focusNode;
   bool init = false;
   BoxDecoration defaultDecoration = BoxDecoration(
-      border: Border.all(width: 8, color: Colors.white),
+      border: Border.all(width: 4, color: Colors.white54),
+      color: Colors.lightBlue[400],
       borderRadius: BorderRadius.all(
         Radius.circular(5),
       ));

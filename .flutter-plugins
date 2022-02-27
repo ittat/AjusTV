@@ -1,7 +1,11 @@
 # This is a generated file; do not edit or check into version control.
-fluttertoast=/Users/qqq/flutter_sdk/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.8/
-video_player=/Users/qqq/flutter_sdk/.pub-cache/hosted/pub.dartlang.org/video_player-2.2.18/
-video_player_android=/Users/qqq/flutter_sdk/.pub-cache/hosted/pub.dartlang.org/video_player_android-2.2.17/
-video_player_avfoundation=/Users/qqq/flutter_sdk/.pub-cache/hosted/pub.dartlang.org/video_player_avfoundation-2.2.18/
-video_player_web=/Users/qqq/flutter_sdk/.pub-cache/hosted/pub.dartlang.org/video_player_web-2.0.6/
-video_player_web_hls=/Users/qqq/flutter_sdk/.pub-cache/hosted/pub.dartlang.org/video_player_web_hls-0.1.11+3/
+android_intent_plus=/Users/qqq/flutter_sdk/.pub-cache/hosted/pub.flutter-io.cn/android_intent_plus-3.1.1/
+fijkplayer=/Users/qqq/flutter_sdk/.pub-cache/hosted/pub.flutter-io.cn/fijkplayer-0.10.1/
+fluttertoast=/Users/qqq/flutter_sdk/.pub-cache/hosted/pub.flutter-io.cn/fluttertoast-8.0.8/
+in_app_update=/Users/qqq/flutter_sdk/.pub-cache/hosted/pub.flutter-io.cn/in_app_update-3.0.0/
+package_info=/Users/qqq/flutter_sdk/.pub-cache/hosted/pub.flutter-io.cn/package_info-2.0.2/
+update_app=/Users/qqq/flutter_sdk/.pub-cache/hosted/pub.flutter-io.cn/update_app-0.1.7/
+wakelock=/Users/qqq/flutter_sdk/.pub-cache/hosted/pub.flutter-io.cn/wakelock-0.1.4+2/
+webview_flutter=/Users/qqq/flutter_sdk/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter-3.0.1/
+webview_flutter_android=/Users/qqq/flutter_sdk/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter_android-2.8.3/
+webview_flutter_wkwebview=/Users/qqq/flutter_sdk/.pub-cache/hosted/pub.flutter-io.cn/webview_flutter_wkwebview-2.7.1/

@@ -5,8 +5,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 
-import 'ui/tv_page.dart';
-
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
@@ -47,16 +45,16 @@ class _MyHomePageState extends State<MyHomePage> {
         primary: true, backgroundColor: Colors.black54, body: Text("TV"));
   }
 
-  _toPage() {
-    Navigator.pushAndRemoveUntil(
-      context,
-      MaterialPageRoute(builder: (context) => TVPage()),
-      (route) => route == null,
-    );
-  }
+  // _toPage() {
+  //   Navigator.pushAndRemoveUntil(
+  //     context,
+  //     MaterialPageRoute(builder: (context) => TVPage()),
+  //     (route) => route == null,
+  //   );
+  // }
 
   //倒计时处理
-  static const timeout = const Duration(seconds: 1);
+  static const timeout = const Duration(seconds: 5);
 
   startTimeout() {
     timer = Timer(timeout, handleTimeout);
@@ -72,7 +70,7 @@ class _MyHomePageState extends State<MyHomePage> {
         backgroundColor: Colors.red,
         textColor: Colors.white,
         fontSize: 16.0);
-    _toPage();
+    // _toPage();
   }
 
   @override
